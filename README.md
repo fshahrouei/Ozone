@@ -3,6 +3,35 @@
 > **ClimateWise** is a three-layer system (Python ingestion → Laravel APIs → Flutter app with OSM basemaps) that turns raw scientific datasets into actionable insights for air quality, climate anomalies, greenhouse-gas emissions, and personalized health risk.
 
 ---
+# 🌍 ClimateWise
+
+**ClimateWise** is an open-source Android app that is **scientific, educational, and practical** for everyday users.  
+It provides **air-pollution forecasts** for North America, along with **alerts, health tips, and heat maps** in a simple yet advanced interface.  
+
+---
+
+## 📥 Download
+👉 [Get the latest APK](https://github.com/fshahrouei/ClimateWise/releases)  
+
+---
+
+## 🌐 Website
+For more details, visit the [ClimateWise Support Website](https://climatewise.app)  
+
+---
+
+## ✨ Features
+- Air-pollution forecasts (past, present, and upcoming hours)  
+- Personalized health tips & notifications  
+- Heat maps of pollutants and greenhouse gases  
+- Simple, modern, and accessible design  
+
+---
+
+## ⚖️ License
+This project is open-source under the [MIT License](./LICENSE).  
+
+---
 
 ## Table of Contents
 
