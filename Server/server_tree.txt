@@ -1,0 +1,28 @@
+.
+├── app
+│   └── Http
+│       └── Controllers
+├── database
+│   └── migrations
+│       └── 2025_09_26_124627_create_climate_health_advisors_table.php
+├── py
+│   ├── build_tempo_forecast_summaries.py
+│   ├── logs
+│   │   └── np2
+│   ├── stations_fetch.py
+│   ├── tempo_to_json.py
+│   └── weather_fetch_run.py
+├── routes
+│   └── api
+│       ├── air-quality.php
+│       ├── auth.php
+│       ├── health-advisor.php
+│       ├── heat.php
+│       ├── ozone.php
+│       ├── planet.php
+│       ├── post.php
+│       ├── setting.php
+│       └── user.php
+└── server_tree.txt
+
+11 directories, 15 files

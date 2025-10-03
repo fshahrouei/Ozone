@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "homeTitle": "Home",
+  "help": "Help",
+  "mainMenu": "Main Menu",
+  "itemOne": "First Item",
+  "itemTwo": "Second Item",
+  "greeting": "Hello!"
+}

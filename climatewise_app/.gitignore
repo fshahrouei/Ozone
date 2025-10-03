@@ -1,0 +1,82 @@
+# ------------------------
+# OS Junk
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# IDEs
+# ------------------------
+*.iml
+*.ipr
+*.iws
+.idea/
+/.vscode/
+
+# ------------------------
+# Flutter/Dart/Pub
+# ------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# iOS / macOS ephemeral
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/ephemeral/
+/macos/Flutter/ephemeral/
+/linux/flutter/ephemeral/
+/windows/flutter/ephemeral/
+
+# Web build artifacts
+web/.dart_tool/
+web/.firebase/
+
+# ------------------------
+# Logs & Temp
+# ------------------------
+*.class
+*.log
+*.pyc
+*.swp
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ------------------------
+# Android
+# ------------------------
+/android/app/debug
+/android/app/profile
+/android/app/release
+**/local.properties
+
+# ------------------------
+# Sensitive files
+# ------------------------
+# Firebase configs
+**/google-services.json
+**/GoogleService-Info.plist
+firebase.json
+
+# Keystore & signing
+**/sign-key.jks
+**/key.properties
+
+# ------------------------
+# Symbolication / Obfuscation
+# ------------------------
+app.*.symbols
+app.*.map.json
+
+# ------------------------
+# Project specific
+# ------------------------
+project_tree.txt
